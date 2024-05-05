@@ -1,1 +1,2 @@
-Hello,Git
+Project name:Menu's App
+Project Description: Join us in building Menu Compass and empower people to eat well, explore more, and spend smarter!!
